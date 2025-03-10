@@ -1,0 +1,14 @@
+/mnt/work/facultate/PIU/obj/Debug/net9.0/rezervari.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/work/facultate/PIU/obj/Debug/net9.0/rezervari.AssemblyInfoInputs.cache
+/mnt/work/facultate/PIU/obj/Debug/net9.0/rezervari.AssemblyInfo.cs
+/mnt/work/facultate/PIU/obj/Debug/net9.0/rezervari.csproj.CoreCompileInputs.cache
+/mnt/work/facultate/PIU/bin/Debug/net9.0/rezervari
+/mnt/work/facultate/PIU/bin/Debug/net9.0/rezervari.deps.json
+/mnt/work/facultate/PIU/bin/Debug/net9.0/rezervari.runtimeconfig.json
+/mnt/work/facultate/PIU/bin/Debug/net9.0/rezervari.dll
+/mnt/work/facultate/PIU/bin/Debug/net9.0/rezervari.pdb
+/mnt/work/facultate/PIU/obj/Debug/net9.0/rezervari.dll
+/mnt/work/facultate/PIU/obj/Debug/net9.0/refint/rezervari.dll
+/mnt/work/facultate/PIU/obj/Debug/net9.0/rezervari.pdb
+/mnt/work/facultate/PIU/obj/Debug/net9.0/rezervari.genruntimeconfig.cache
+/mnt/work/facultate/PIU/obj/Debug/net9.0/ref/rezervari.dll

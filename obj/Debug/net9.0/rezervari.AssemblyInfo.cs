@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rezervari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d0d9a981c654bdea4b0db89c448292138c23ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("rezervari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rezervari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

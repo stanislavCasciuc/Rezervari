@@ -2,26 +2,20 @@ namespace rezervari.Models
 {
   public class Restaurant
   {
-    public int ID { get; set; }
+    public int Id { get; set; }
     public string Name { get; set; }
-    public string Location { get; set; }
+    public string Address { get; set; }
 
-    public string PhoneNumber { get; set; }
-
-    public int UserId { get; set; }
-
-    public Restaurant(string name, string location, string phoneNumber, int userId)
+    public Restaurant(int id, string name, string address)
     {
+      Id = id;
       Name = name;
-      Location = location;
-      PhoneNumber = phoneNumber;
-      UserId = userId;
+      Address = address;
     }
 
-    public string Info()
+    public virtual string Info()
     {
-      return $"ID: {ID}, Name: {Name}, Location: {Location}, Phone: {PhoneNumber}, User ID: {UserId}";
+      return $"Id: {Id}, Name: {Name}, Address: {Address}";
     }
   }
-
 }
